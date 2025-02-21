@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Gestion_Football/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projet-gestion-ferme/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/projet-gestion-ferme/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestion_Football/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

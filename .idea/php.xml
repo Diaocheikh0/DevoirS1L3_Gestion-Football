@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/composer" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/projet-gestion-ferme/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/composer" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/Gestion_Football/vendor/doctrine/orm" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
